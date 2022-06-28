@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/college-movie-app/static/css/main.77a78328.css",
+    "main.js": "/college-movie-app/static/js/main.6dd6da3b.js",
+    "index.html": "/college-movie-app/index.html",
+    "main.77a78328.css.map": "/college-movie-app/static/css/main.77a78328.css.map",
+    "main.6dd6da3b.js.map": "/college-movie-app/static/js/main.6dd6da3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77a78328.css",
+    "static/js/main.6dd6da3b.js"
+  ]
+}
